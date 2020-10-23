@@ -13,3 +13,6 @@ git remote add origin https://github.com/bhupendra592/nikhil.git
 git push -u origin main
 #this completes the whole step to be performed !!
 #Good day !!
+#Demonstrating pull request
+Directly making changes at Remote Repository
+Go to the exisiting project and add few lines from the web browser
