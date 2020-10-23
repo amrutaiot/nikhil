@@ -11,3 +11,5 @@ git branch -M main
 git remote add origin https://github.com/bhupendra592/nikhil.git
 #push the code into main branch
 git push -u origin main
+#this completes the whole step to be performed !!
+#Good day !!
