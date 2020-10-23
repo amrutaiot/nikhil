@@ -1,0 +1,13 @@
+Basic git operations
+#initialize the local git repository
+git init
+#Add README.md into statging area
+git add README.md
+#commit some message before pushing it to github
+git commit -m "first commit"
+#force the branch to main from master
+git branch -M main
+#add remote URL (Github Repository) where to push the code
+git remote add origin https://github.com/bhupendra592/nikhil.git
+#push the code into main branch
+git push -u origin main
