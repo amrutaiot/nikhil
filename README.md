@@ -18,6 +18,4 @@ Directly making changes at Remote Repository
 Go to the exisiting project and add few lines from the web browser
 #git pull sync my local code with remote code
 git pull
-hello from diot
-hello from bhakti
-
+hello diot
